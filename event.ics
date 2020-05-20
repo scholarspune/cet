@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//ical.marudot.com//iCal Event Maker
+X-WR-CALNAME:How to score 160+ in MHT-CET 2020!
+NAME:How to score 160+ in MHT-CET 2020!
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
 TZID:Asia/Kolkata
@@ -14,16 +16,11 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20200503T135130Z
-UID:20200503T135130Z-1805989412@marudot.com
-DTSTART;TZID=Asia/Calcutta:20200507T160000
-DTEND;TZID=Asia/Calcutta:20200507T171500
-SUMMARY:Free Online Session on Opportunities for Engineering Students in Industry 4.0
-DESCRIPTION:A one-of-a-kind event for engineering students of all branches to benefit from.\nMake yourself ready for Industry 4.0!
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Free Online Session on Opportunities for Engineering Students in Industry 4.0
-TRIGGER:-PT30M
-END:VALARM
+DTSTAMP:20200520T111016Z
+UID:20200520T111016Z-560772776@marudot.com
+DTSTART;TZID=Asia/Calcutta:20200524T120000
+DTEND;TZID=Asia/Calcutta:20200524T134500
+SUMMARY:How to score 160+ in MHT-CET 2020!
+DESCRIPTION:A one-of-a-kind online event to help you utilise your time during this lockdown to effectively increase your CET score.
 END:VEVENT
 END:VCALENDAR
